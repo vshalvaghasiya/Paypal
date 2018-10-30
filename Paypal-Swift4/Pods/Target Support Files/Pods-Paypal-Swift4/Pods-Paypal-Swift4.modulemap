@@ -1,0 +1,6 @@
+framework module Pods_Paypal_Swift4 {
+  umbrella header "Pods-Paypal-Swift4-umbrella.h"
+
+  export *
+  module * { export * }
+}
